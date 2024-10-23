@@ -1,2 +1,1 @@
-My name is Alperen Karslıoğlu and I am 19 years old, second year undergraduate, studying at
-Bilkent University Computer Science department. 
+Hello there, I am Alperen Karslıoğlu. I am from Turkey and I graduated from ŞIAFL high school. Now I am in Bilkent university as sophomore undergraduate student
